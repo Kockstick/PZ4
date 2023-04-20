@@ -20,6 +20,6 @@ namespace PZ4
         }
 
         public double GetSqare() =>
-            (first * second) / 2;
+            (third * second) / 2;
     }
 }
